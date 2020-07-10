@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 667D-FD33
+
+ Directory of C:\Users\10\Desktop\Yashaswini
+
+10-Jul-20  10:52 AM    <DIR>          .
+10-Jul-20  10:52 AM    <DIR>          ..
+10-Jul-20  10:52 AM                 0 radhika.txt
+10-Jul-20  10:51 AM               372 shreeja.txt
+               2 File(s)            372 bytes
+               2 Dir(s)  13,742,579,712 bytes free
